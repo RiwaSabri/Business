@@ -1,5 +1,7 @@
 # Business
 
+For full presentation, click [here](https://github.com/riwasabri/Business/blob/master/Business%20-%20Presentation.pdf)
+
 ## **Abstract**
 
 The Google Merchandise Store collects a large amount of data regarding its website
