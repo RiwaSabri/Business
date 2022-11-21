@@ -1,4 +1,4 @@
-# Business
+# Empowering business analysts to understand complex data with interactive dashboards
 
 For full presentation, click [here.](https://github.com/riwasabri/Business/blob/master/Business%20-%20Presentation%20-%20.pdf)
 
